@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+.contenedor{
+  padding: 0 !important;
+  margin: 0 !important;
+  width: 100vmax !important;
+}
+.productos{
+  padding-left: 3em;
+}

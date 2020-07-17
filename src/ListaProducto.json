@@ -1,0 +1,36 @@
+{
+    "listaProductos":[
+        {
+            "titulo":"Afeitadora Azul electric Shaver",
+            "subtitulo":"Valor: $39.990",
+            "precio":"39.990",
+            "imagen":"https://image.freepik.com/vector-gratis/afeitadora-electrica-recargable-realista-poster-publicitario-motor-velocidad-plantilla-azul-degradado_1284-28304.jpg",
+            "texto":"Afeitadora electrica capaz de afeitar",
+            "stock":"4"
+        },
+        {
+            "titulo":"Lenovo All in one",
+            "subtitulo":"Valor: $399.990",
+            "precio":"399.990",
+            "imagen":"https://home.ripley.cl/store/Attachment/WOP/D113/2000377175897/2000377175897_2.jpg",
+            "texto":"Computador 16 Ram 2TB disco duro",
+            "stock":"8"
+        },
+        {
+            "titulo":"Lenovo Thinkpad",
+            "subtitulo":"Valor: $700.000",
+            "precio":"700.000",
+            "imagen":"https://www.lenovo.com/medias/lenovo-laptop-thinkpad-t490-hero-1126.png?context=bWFzdGVyfHJvb3R8Nzg4OTN8aW1hZ2UvcG5nfGg5Ni9oYTcvMTA2NzMyMDYyNjM4MzgucG5nfDllOTUyNGM1OGYxNjkxNGU2ZTMxNWQxMTE1NDQ0MGZkNDU4ZWYwOWExZWZjMDJkMDRiZTIwYjc0OGE5NGUwMzA",
+            "texto":"Computador 8 Ram 1TB disco duro",
+            "stock":"8"
+        },
+        {
+            "titulo":"Lenovo All in one",
+            "subtitulo":"Valor: $250.000",
+            "precio":"250.000",
+            "imagen":"https://home.ripley.cl/store/Attachment/WOP/D113/2000377175897/2000377175897_2.jpg",
+            "texto":"Computador 4 Ram 512 GB disco duro",
+            "stock":"7"
+        }
+    ]
+}
